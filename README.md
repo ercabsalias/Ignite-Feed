@@ -38,4 +38,6 @@ Ignite feed é um projeto simples que simula o feed das redes sociais,<br> com f
 
 ## Considerações finais
 
+O Ignite Feed representa não apenas um projeto de simulação de feed de redes sociais, mas também uma jornada de aprendizado e crescimento. Ao explorar tecnologias como ReactJS, Vite e outras, aprimorei minhas habilidades de desenvolvimento e priorizei uma experiência de usuário excepcional. Agradeço à comunidade e aos mentores por seu apoio, e estou ansioso para continuar contribuindo para projetos significativos no futuro. Obrigado por fazer parte desta jornada!
+
 ### Desenvolvido por `Ernesto Cabingano Salias - @ercabsalias`
